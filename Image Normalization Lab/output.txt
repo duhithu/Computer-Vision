@@ -1,0 +1,1 @@
+Average Squared Difference (MSE): 67.9556
